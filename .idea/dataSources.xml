@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="session_name" uuid="925a8e6d-f5b5-4432-8694-dff90eeb7f0f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\alekot\Desktop\telegram\film_telegram_client\src\session_name.session</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="channel_name" uuid="a046b96a-9505-403e-ab37-f94991379526">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\alekot\Desktop\telegram\film_telegram_client\src\channel_name.session</jdbc-url>
+    </data-source>
+  </component>
+</project>
